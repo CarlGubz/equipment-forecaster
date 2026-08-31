@@ -1,0 +1,61 @@
+Client,Order Date,SKU,Part Description,Qty,Machine
+Acme Manufacturing,09/07/2024,CLF-118,Coolant Filter,5,CNC Mill A3
+Acme Manufacturing,09/30/2024,CLF-118,Coolant Filter,2,CNC Mill A3
+Acme Manufacturing,10/05/2024,WAYO-005,Way Oil (20L),3,Lathe L2
+Acme Manufacturing,10/26/2024,CLF-118,Coolant Filter,3,CNC Mill A3
+Acme Manufacturing,11/19/2024,THLD-330,Tool Holder,1,CNC Mill A3
+Acme Manufacturing,11/20/2024,SPN-2201,Spindle Bearing,1,CNC Mill A3
+Acme Manufacturing,11/22/2024,WAYO-005,Way Oil (20L),2,Lathe L2
+Acme Manufacturing,11/23/2024,CLF-118,Coolant Filter,3,CNC Mill A3
+Acme Manufacturing,12/19/2024,CLF-118,Coolant Filter,3,CNC Mill A3
+Acme Manufacturing,12/27/2024,DRB-540,Drive Belt,1,Lathe L2
+Acme Manufacturing,01/05/2025,WAYO-005,Way Oil (20L),3,Lathe L2
+Acme Manufacturing,01/21/2025,CLF-118,Coolant Filter,2,CNC Mill A3
+Acme Manufacturing,02/13/2025,WAYO-005,Way Oil (20L),2,Lathe L2
+Acme Manufacturing,02/19/2025,CLF-118,Coolant Filter,5,CNC Mill A3
+Acme Manufacturing,02/23/2025,SPN-2201,Spindle Bearing,1,CNC Mill A3
+Acme Manufacturing,03/18/2025,WAYO-005,Way Oil (20L),1,Lathe L2
+Acme Manufacturing,03/27/2025,CLF-118,Coolant Filter,6,CNC Mill A3
+Acme Manufacturing,04/27/2025,DRB-540,Drive Belt,2,Lathe L2
+Acme Manufacturing,04/30/2025,CLF-118,Coolant Filter,4,CNC Mill A3
+Acme Manufacturing,05/08/2025,THLD-330,Tool Holder,1,CNC Mill A3
+Acme Manufacturing,05/15/2025,WAYO-005,Way Oil (20L),3,Lathe L2
+Acme Manufacturing,05/24/2025,SPN-2201,Spindle Bearing,1,CNC Mill A3
+Acme Manufacturing,06/01/2025,CLF-118,Coolant Filter,6,CNC Mill A3
+Acme Manufacturing,06/20/2025,WAYO-005,Way Oil (20L),1,Lathe L2
+Acme Manufacturing,06/24/2025,CLF-118,Coolant Filter,2,CNC Mill A3
+Acme Manufacturing,07/27/2025,CLF-118,Coolant Filter,6,CNC Mill A3
+Acme Manufacturing,08/04/2025,WAYO-005,Way Oil (20L),1,Lathe L2
+Acme Manufacturing,08/21/2025,SPN-2201,Spindle Bearing,1,CNC Mill A3
+Acme Manufacturing,08/25/2025,CLF-118,Coolant Filter,4,CNC Mill A3
+Acme Manufacturing,09/03/2025,DRB-540,Drive Belt,1,Lathe L2
+Acme Manufacturing,09/11/2025,WAYO-005,Way Oil (20L),2,Lathe L2
+Acme Manufacturing,09/26/2025,CLF-118,Coolant Filter,4,CNC Mill A3
+Acme Manufacturing,10/10/2025,THLD-330,Tool Holder,1,CNC Mill A3
+Acme Manufacturing,10/19/2025,WAYO-005,Way Oil (20L),3,Lathe L2
+Acme Manufacturing,10/21/2025,CLF-118,Coolant Filter,6,CNC Mill A3
+Acme Manufacturing,11/08/2025,SPN-2201,Spindle Bearing,2,CNC Mill A3
+Acme Manufacturing,11/20/2025,CLF-118,Coolant Filter,3,CNC Mill A3
+Acme Manufacturing,12/07/2025,WAYO-005,Way Oil (20L),2,Lathe L2
+Acme Manufacturing,12/17/2025,DRB-540,Drive Belt,1,Lathe L2
+Acme Manufacturing,12/21/2025,CLF-118,Coolant Filter,4,CNC Mill A3
+Acme Manufacturing,01/22/2026,WAYO-005,Way Oil (20L),3,Lathe L2
+Acme Manufacturing,01/27/2026,CLF-118,Coolant Filter,2,CNC Mill A3
+Acme Manufacturing,02/09/2026,SPN-2201,Spindle Bearing,1,CNC Mill A3
+Acme Manufacturing,02/25/2026,CLF-118,Coolant Filter,5,CNC Mill A3
+Acme Manufacturing,03/07/2026,WAYO-005,Way Oil (20L),1,Lathe L2
+Acme Manufacturing,03/26/2026,CLF-118,Coolant Filter,4,CNC Mill A3
+Acme Manufacturing,04/19/2026,DRB-540,Drive Belt,1,Lathe L2
+Acme Manufacturing,04/26/2026,THLD-330,Tool Holder,1,CNC Mill A3
+Acme Manufacturing,04/27/2026,WAYO-005,Way Oil (20L),3,Lathe L2
+Acme Manufacturing,04/30/2026,CLF-118,Coolant Filter,3,CNC Mill A3
+Acme Manufacturing,05/10/2026,SPN-2201,Spindle Bearing,1,CNC Mill A3
+Acme Manufacturing,05/28/2026,CLF-118,Coolant Filter,4,CNC Mill A3
+Acme Manufacturing,06/09/2026,WAYO-005,Way Oil (20L),3,Lathe L2
+Acme Manufacturing,06/28/2026,CLF-118,Coolant Filter,2,CNC Mill A3
+Acme Manufacturing,07/16/2026,WAYO-005,Way Oil (20L),2,Lathe L2
+Acme Manufacturing,07/26/2026,CLF-118,Coolant Filter,3,CNC Mill A3
+Acme Manufacturing,07/28/2026,SPN-2201,Spindle Bearing,2,CNC Mill A3
+Acme Manufacturing,08/07/2026,DRB-540,Drive Belt,1,Lathe L2
+Acme Manufacturing,08/23/2026,CLF-118,Coolant Filter,3,CNC Mill A3
+Acme Manufacturing,08/30/2026,WAYO-005,Way Oil (20L),2,Lathe L2
